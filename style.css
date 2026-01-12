@@ -1,0 +1,157 @@
+/* =========================
+   THEME VARIABLES
+   ========================= */
+
+:root {
+    --bg-color: #000;
+    --box-color: #111;
+    --accent: #00ff66;
+    --accent-alt: #00ffcc;
+    --text-color: #ffffff;
+}
+
+body.purple-theme {
+    --accent: #b84dff;
+    --accent-alt: #ff4df8;
+}
+
+/* =========================
+   GLOBAL
+   ========================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Tahoma, sans-serif;
+}
+
+body {
+    height: 100vh;
+    background: var(--bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--text-color);
+}
+
+/* =========================
+   CONTAINER
+   ========================= */
+
+.game-container {
+    text-align: center;
+    width: 90%;
+    max-width: 420px;
+}
+
+/* =========================
+   TITLE
+   ========================= */
+
+.title {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: var(--accent-alt);
+    text-shadow: 0 0 12px rgba(0, 255, 204, 0.5);
+}
+
+/* =========================
+   TOP BAR
+   ========================= */
+
+.top-bar {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 15px;
+}
+
+.small-btn {
+    background: transparent;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    padding: 6px 14px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.small-btn:hover {
+    background: var(--accent);
+    color: #000;
+}
+
+/* =========================
+   GAME BOX
+   ========================= */
+
+.game-box {
+    background: var(--box-color);
+    border-radius: 14px;
+    padding: 45px 20px;
+    margin-bottom: 25px;
+    transition: 0.25s ease;
+    border: 2px solid #222;
+}
+
+.game-box.ready {
+    background: #1a1a1a;
+}
+
+.game-box.now {
+    background: var(--accent);
+    color: #000;
+    transform: scale(1.05);
+}
+
+/* =========================
+   TEXT
+   ========================= */
+
+#message {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+}
+
+#timer {
+    font-size: 1.9rem;
+    font-weight: bold;
+}
+
+/* =========================
+   MAIN BUTTON
+   ========================= */
+
+.btn {
+    padding: 15px 34px;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    background: linear-gradient(135deg, var(--accent), var(--accent-alt));
+    color: #000;
+    transition: 0.2s ease;
+}
+
+.btn:hover {
+    box-shadow: 0 0 18px rgba(0, 255, 204, 0.6);
+    transform: translateY(-2px);
+}
+
+.btn:active {
+    transform: scale(0.95);
+}
+
+/* =========================
+   RESPONSIVE
+   ========================= */
+
+@media (max-width: 480px) {
+    .title {
+        font-size: 1.6rem;
+    }
+
+    #timer {
+        font-size: 1.5rem;
+    }
+}
