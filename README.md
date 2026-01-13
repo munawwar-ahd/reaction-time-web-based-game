@@ -63,7 +63,7 @@ No installation required.
 4. Save
 
 Your game will be live at:
-https://munawwar.ahd.github.io/reaction-time-web-based-game/
+https://munawwar-ahd.github.io/reaction-time-web-based-game/
 
 ## Sound Notice
 
