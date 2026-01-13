@@ -1,10 +1,10 @@
-# 🧠 Reaction Time Game
+# Reaction Time Game
 
 A simple, modern reaction time testing game built using HTML, CSS, and vanilla JavaScript.
 
 Test how fast you can react when a visual signal appears. Designed to be minimal, clean, and beginner-friendly, with keyboard and mouse support.
 
-## 🎮 Features
+## Features
 
 - Measures reaction time in milliseconds
 - Keyboard support (SPACE / ENTER)
@@ -15,7 +15,7 @@ Test how fast you can react when a visual signal appears. Designed to be minimal
 - Replay without refreshing the page
 - Responsive (desktop & mobile)
 
-## 🧑‍💻 Controls
+## Controls
 
 | Action | Input |
 |------|------|
@@ -23,7 +23,7 @@ Start game | Click START or press SPACE |
 React | Click anywhere or press SPACE / ENTER |
 Restart | Click PLAY AGAIN |
 
-## 🕹️ How to Play
+## How to Play
 
 1. Click START
 2. Wait for the message “NOW!”
@@ -32,7 +32,7 @@ Restart | Click PLAY AGAIN |
 5. Clicking too early invalidates the round
 6. Click PLAY AGAIN to try again
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML – Structure
 - CSS – Styling & animations
@@ -42,7 +42,7 @@ No frameworks
 No libraries  
 No backend
 
-## 🚀 Run Locally
+## Run Locally
 
 No installation required.
 
@@ -53,7 +53,7 @@ No installation required.
    - script.js
 3. Open index.html in any modern browser
 
-## 🌐 GitHub Pages Deployment
+## GitHub Pages Deployment
 
 1. Push this project to a GitHub repository
 2. Go to Settings → Pages
@@ -65,19 +65,19 @@ No installation required.
 Your game will be live at:
 https://your-username.github.io/repository-name/
 
-## 🔊 Sound Notice
+## Sound Notice
 
 Modern browsers block audio until user interaction.  
 Click START once to enable sound.
 
-## 📂 Project Structure
+## Project Structure
 
 reaction-time-game/
 ├── index.html   # Game layout
 ├── style.css    # Styling & animations
 └── script.js    # Game logic
 
-## 🧠 Learning Goals
+## Learning Goals
 
 - JavaScript event handling
 - Timing with performance.now()
@@ -85,6 +85,6 @@ reaction-time-game/
 - Building interactive UI projects
 - Hosting static sites using GitHub Pages
 
-## 📜 License
+## License
 
 Free to use for learning and personal projects.
