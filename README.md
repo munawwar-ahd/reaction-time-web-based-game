@@ -64,7 +64,7 @@ No installation required.
 
 Your game will be live at:
 https://munawwar-ahd.github.io/reaction-time-web-based-game/
-
+sorry, game is still in progress :(
 ## Sound Notice
 
 Modern browsers block audio until user interaction.  
