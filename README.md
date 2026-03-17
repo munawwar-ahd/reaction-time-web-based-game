@@ -1,3 +1,7 @@
+# TRY IT OUT
+https://typing-speed-nine-psi.vercel.app/
+
+
 # Reaction Time Game
 
 A simple, modern reaction time testing game built using HTML, CSS, and vanilla JavaScript.
