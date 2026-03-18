@@ -1,5 +1,5 @@
-# TRY IT OUT[
-https://typicaltyping.vercel.app/
+# TRY IT OUT
+demo - https://typicaltyping.vercel.app/
 
 
 # Reaction Time Game
