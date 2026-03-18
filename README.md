@@ -1,5 +1,5 @@
-# TRY IT OUT
-https://typing-speed-nine-psi.vercel.app/
+# TRY IT OUT[
+https://typicaltyping.vercel.app/
 
 
 # Reaction Time Game
