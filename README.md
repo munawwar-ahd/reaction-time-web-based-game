@@ -90,4 +90,4 @@ reaction-time-game/
 
 ## License
 
-Free to use for learning and personal projects.
+Free to use for learning and personal projects
