@@ -1,4 +1,4 @@
-## LIVE DEMO - https://reaction-time-web-based-game.vercel.app/
+## CHECK IT OUT - https://reaction-time-web-based-game.vercel.app/
 
 # Reaction Time Game
 
