@@ -44,17 +44,6 @@ No frameworks
 No libraries  
 No backend
 
-## Run Locally
-
-No installation required.
-
-1. Download or clone this repository
-2. Ensure these files are in the same folder:
-   - index.html
-   - style.css
-   - script.js
-3. Open index.html in any modern browser
-
 ## GitHub Pages Deployment
 
 1. Push this project to a GitHub repository
