@@ -57,6 +57,3 @@ Click START once to enable sound.
 - Building interactive UI projects
 - Hosting static sites using GitHub Pages
 
-## License
-
-Free to use for learning and personal projects
