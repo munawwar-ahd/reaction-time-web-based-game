@@ -49,13 +49,6 @@ No backend
 Modern browsers block audio until user interaction.  
 Click START once to enable sound.
 
-## Project Structure
-
-reaction-time-game/
-├── index.html   # Game layout
-├── style.css    # Styling & animations
-└── script.js    # Game logic
-
 ## Learning Goals
 
 - JavaScript event handling
