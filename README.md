@@ -61,4 +61,4 @@ ___
 
 enjoy the game and let me know your opinions.
 reach me out @munawwar.ahmd
-btw, that's IG :)
+btw, that's my IG :)
