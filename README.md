@@ -44,19 +44,6 @@ No frameworks
 No libraries  
 No backend
 
-## GitHub Pages Deployment
-
-1. Push this project to a GitHub repository
-2. Go to Settings → Pages
-3. Set:
-   - Branch: main
-   - Folder: /root
-4. Save
-
-Your game will be live at:
-https://munawwar-ahd.github.io/reaction-time-web-based-game/
-sorry, game is still in progress :(
-
 ## Sound Notice
 
 Modern browsers block audio until user interaction.  
