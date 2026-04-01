@@ -59,6 +59,6 @@ Click START once to enable sound.
 
 ___
 
-enjoy the game and let me know your comments.
-
-
+enjoy the game and let me know your opinions.
+reach me out @munawwar.ahmd
+btw, that's IG :)
